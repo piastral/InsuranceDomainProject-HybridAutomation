@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="MasterRegressionSuite" parallel="tests" thread-count="5">
+
+    <!-- Global Listeners -->
+    <listeners>
+        <listener class-name="com.orangehrm.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Regression Suite">
+
+        <!-- Run only regression classes -->
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+
+        <!-- Load every class inside the package -->
+        <packages>
+            <package name="com.orangehrm.test"/>
+        </packages>
+
+    </test>
+
+</suite>

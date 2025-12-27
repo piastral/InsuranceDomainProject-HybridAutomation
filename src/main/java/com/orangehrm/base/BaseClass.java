@@ -21,6 +21,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 import com.orangehrm.actiondriver.ActionDriver;
+import com.orangehrm.utilities.ExtentManager;
 import com.orangehrm.utilities.LoggerManager;
 
 /* WHY WE SHOULD USE STATIC WEBDRIVER INSTANCE
@@ -89,7 +90,9 @@ In short, ThreadLocal helps each test thread keep its own copy of WebDriver,
  * 
  * 
  * 
- * 
+ * THREAD-LOCAL DOESNT EXECUTE AS PARRALE TESTING THAT IS THE JOB OF TESTNG XML WHEN RUNNING THE THREADS AS PARALLEL
+ * THE JOB OF THREADLOCAL IS ENSURING THAT EACH WEBDRIVER GETS ITS RESPECTIVE THREAD 
+ * ITS ACTS AS POLICEMAN
  * 
  * 
  */
@@ -99,14 +102,14 @@ public class BaseClass {
 	protected static Properties prop;
 	// protected static  WebDriver driver;
 	protected  FileInputStream file;
-	protected static WebDriverWait wait;
+
 	protected  ChromeOptions chromeOption; // static variable will be shared across all OBJECT
 	protected  FirefoxOptions firefoxOption;
 	protected  EdgeOptions edgeOption;
 	//private static ActionDriver actionDriver;
 	
-	private static ThreadLocal<WebDriver>driver=   new ThreadLocal<>();
-	private static ThreadLocal<ActionDriver> actionDriver=   new ThreadLocal<>();
+	private static ThreadLocal<WebDriver>driver=   new ThreadLocal<>(); // parallel testiing
+	private static ThreadLocal<ActionDriver> actionDriver=   new ThreadLocal<>(); // this should also run in 
 	
 	
 	public static final Logger logger = LoggerManager.getLogger(BaseClass.class);
@@ -124,12 +127,16 @@ public class BaseClass {
 		prop.load(file);
 	
 		logger.info("Config.properties file loaded ");
+		
+		//Start the extent report 
+		
+		ExtentManager.getReporter();
 	}
 //==============================================END LOAD CONFIG========================================================================================	
 
 //==================================BEFORE METHOD SETUP ==========================================
 	@BeforeMethod
-	public void setUp() throws IOException, IllegalAccessException, InterruptedException {
+	public synchronized void setUp() throws IOException, IllegalAccessException, InterruptedException {
 		System.out.println("Setting up WebDriver for:" + this.getClass().getSimpleName());
 		launchBrowser();
 		configureBrowserUsingImplcitWait();
@@ -137,7 +144,7 @@ public class BaseClass {
 		
 		
 		//Initilize action driver for the current thread also tied up with webdriver 
-		actionDriver.set(new ActionDriver(getDriver()));
+		actionDriver.set(new ActionDriver(getDriver())); // here i am creating object of actionDriver class
 		logger.info("ActionDriver Initlized for thread" + Thread.currentThread().getId());
 		
 		
@@ -173,7 +180,7 @@ public class BaseClass {
 //==================================LAUNCH RBOWSER ======================================================================          
 // why beforemethod because i want to run my setup before every test case
 
-	private void launchBrowser() throws IllegalAccessException {
+	private synchronized  void launchBrowser() throws IllegalAccessException {
 
 // to debug press twice to break point in line 62 also for Properties we need to use static 
 		String browserOptions = prop.getProperty("browserOptions");
@@ -185,6 +192,7 @@ public class BaseClass {
 			
 			//Create webdriver instance and put into threadlocal
 			driver.set(new ChromeDriver(chromeOption));
+			ExtentManager.registerDriver(getDriver());
 			logger.info("ChromeDriver & ChromeOption Instance is created");
 			
 			
@@ -194,6 +202,7 @@ public class BaseClass {
               firefoxOption.addArguments("--start-maximized ","--incognito");
               
               driver.set(new FirefoxDriver(firefoxOption));
+              ExtentManager.registerDriver(getDriver());
   			logger.info("FirefoxDriver & FireFox Instance is created");
               
 			
@@ -204,6 +213,7 @@ public class BaseClass {
 			  edgeOption.addArguments("--start-maximized ","--incognito");
             
             driver.set(new EdgeDriver(edgeOption));
+            ExtentManager.registerDriver(getDriver());
 			logger.info("EdgeDriver & EdgeOptions Instance is created");
 			
 			
@@ -249,7 +259,7 @@ public class BaseClass {
 
 //================================================================= TEARDOWN =================================================	
 	@AfterMethod
-	public void tearDown() {
+	public synchronized  void tearDown() {
 		if (getDriver() != null) {
 			try {
 				getDriver().quit();
@@ -261,6 +271,7 @@ public class BaseClass {
 	 } finally {
          driver.remove();  // Clean up ThreadLocal drawer
          actionDriver.remove();
+         ExtentManager.endTest(); // will flush the report after each test class we will flush the report 
    
 	} 
 		}
@@ -274,13 +285,7 @@ public class BaseClass {
 		
 	}
 	
-	// initlizing webdriver wait from base class to action class
-	
-	public static WebDriverWait getWait ()
-	{
-		return wait;
-	}
-	
+
 				//using getter and setter with driver instance so that we can modify 
 	//important GetterEncapsulation
 	public static WebDriver getDriver () 
@@ -297,7 +302,7 @@ public class BaseClass {
 	
 	public static ActionDriver getActionDriver()
 	{
-		if(actionDriver.get()==null)
+		if(actionDriver.get()==null) // if my actionDriver becoms null else create new actionDriver
 		{
 			System.out.println("ActionDriver is not Iniltilized");
 			throw new IllegalStateException("ActionDriver is not Iniltilized");

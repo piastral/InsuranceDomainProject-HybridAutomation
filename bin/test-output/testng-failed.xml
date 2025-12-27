@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [OrangeHrmSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="OrangeHrmTest(failed)">
+    <classes>
+      <class name="com.orangehrm.test.HomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loadConfig"/>
+          <include name="verifyValidAdminTabTest"/>
+          <include name="verifyHrmLogoDisplay"/>
+          <include name="setUpPages"/>
+        </methods>
+      </class> <!-- com.orangehrm.test.HomePageTest -->
+    </classes>
+  </test> <!-- OrangeHrmTest(failed) -->
+</suite> <!-- Failed suite [OrangeHrmSuite] -->

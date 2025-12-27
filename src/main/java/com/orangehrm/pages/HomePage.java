@@ -10,7 +10,7 @@ import com.orangehrm.base.BaseClass;
 
 public class HomePage {
 	
-private ActionDriver actionDriver;
+private ActionDriver actionDriver; //instance variable of actionDriver class
 	
 	// Define all the locators using By class
 	

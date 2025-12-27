@@ -13,11 +13,12 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.orangehrm.base.BaseClass;
+import com.orangehrm.utilities.ExtentManager;
 
 public class ActionDriver {
 	// now instead of creating object all the time better to call it inside base class 
 	// and thus we will have singlton design pattern 
-
+//yhud
 	private WebDriver driver;
 	private WebDriverWait wait; //GLOBAL CANN BE APPLIED ANYWHERE WITHIN CLASS 
 	
@@ -38,9 +39,11 @@ public class ActionDriver {
 		try {
 			waitForElementToBeClickable(by);
 			driver.findElement(by).click();
+		
 			logger.info("Element is clicked ");
 		} catch (Exception e) {
 			logger.error(e.getClass().toString());
+			
 		logger.error("Unable to click the Element" +  e.getMessage());
 		}
 	}
