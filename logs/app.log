@@ -405,3 +405,1014 @@
 2025-12-26 20:20:34 [main] INFO  ActionDriver - Elements are Displayed  
 2025-12-26 20:20:35 [main] INFO  ActionDriver - Element is clicked 
 2025-12-26 20:20:36 [main] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:10:49 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-27 17:10:53 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:10:53 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread36
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread38
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:10:57 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:10:57 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:10:57 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:11:01 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:11:02 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-27 17:11:02 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:11:03 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread37
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:11:05 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Elements are Displayed  
+2025-12-27 17:11:06 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:11:07 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:04 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-27 17:13:06 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:13:06 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:13:10 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:13:10 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:11 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Elements are Displayed  
+2025-12-27 17:13:11 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:13 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-27 17:13:32 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-27 17:13:34 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:13:34 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-27 17:13:40 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:13:40 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:13:40 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:40 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:40 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:13:41 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Elements are Displayed  
+2025-12-27 17:13:42 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:43 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:45 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:13:45 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-27 17:13:45 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:13:45 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-27 17:13:45 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-27 17:13:45 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-27 17:13:46 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-27 17:13:46 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:13:46 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:47 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-27 17:13:47 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:13:47 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:34:26 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-27 17:34:27 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:34:27 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:34:33 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:34:33 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:34:33 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-27 17:34:33 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-27 17:34:33 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:34:34 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-27 17:34:39 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:34:39 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:42:51 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-27 17:42:53 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:42:53 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-27 17:43:01 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:43:01 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-27 17:43:01 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-27 17:43:01 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:43:02 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-27 17:43:02 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:43:03 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-27 17:43:06 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-28 12:55:22 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-28 12:55:24 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 12:55:25 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 12:55:29 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-28 12:55:30 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-28 12:55:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-28 12:55:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-28 12:55:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-28 14:59:45 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-28 14:59:50 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 14:59:50 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-28 14:59:55 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 14:59:56 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-28 14:59:57 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 14:59:57 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-28 14:59:57 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 14:59:59 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 15:00:00 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-28 15:00:00 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-28 15:00:00 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-28 15:20:33 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-28 15:20:36 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 15:20:36 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-28 15:20:40 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-28 15:20:40 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-28 15:20:40 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-28 15:20:40 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-28 15:20:40 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-28 15:20:40 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-28 15:20:41 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-28 15:20:41 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-28 15:20:42 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 15:20:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-28 15:20:44 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-28 15:20:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-28 15:20:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-28 15:20:45 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 15:13:26 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 15:13:29 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:13:29 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:13:33 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:13:33 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:13:33 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:13:33 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 15:13:34 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 15:13:34 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:13:35 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:43:10 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 15:43:12 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:43:12 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread25
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 15:43:16 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:43:16 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:43:16 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:43:16 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:43:16 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:43:17 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 15:43:17 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:43:17 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:43:20 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 15:44:12 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 15:44:14 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:44:14 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:44:19 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:44:19 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 15:44:20 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:44:20 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:44:21 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:44:21 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 15:44:21 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:44:21 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 15:44:21 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 15:44:21 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 15:44:22 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 15:44:22 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 15:44:22 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:44:23 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 15:47:25 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 15:47:28 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:47:28 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:47:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:47:32 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:47:32 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 15:47:32 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:47:33 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 15:47:33 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:47:34 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:48:38 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 15:48:40 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:48:40 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 15:48:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 15:48:44 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 15:48:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 15:48:44 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:48:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:48:44 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:48:44 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:48:45 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 15:48:45 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 15:48:46 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:48:46 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 15:48:48 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:48:48 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:52:02 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 15:52:04 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:52:04 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:52:08 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:52:08 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:52:08 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:52:09 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 15:52:09 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:52:09 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:52:12 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 15:57:39 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 15:57:41 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:57:41 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread24
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 15:57:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 15:57:44 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 15:57:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 15:57:44 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:57:44 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:57:44 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:57:44 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 15:57:45 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 15:57:45 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 15:57:45 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:57:46 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 15:57:48 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 15:57:48 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:21:28 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:21:30 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:21:31 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:21:45 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:21:47 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:21:48 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:23:43 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 16:29:14 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:29:16 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:29:17 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:30:30 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 16:30:32 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:30:32 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 16:30:36 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 16:30:36 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 16:30:36 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:30:36 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:30:36 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:30:37 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 16:30:38 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:30:38 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 16:30:40 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:30:40 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 16:35:48 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 16:35:51 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:35:51 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 16:35:55 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:35:55 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:35:55 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:35:55 [TestNG-test-OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 16:35:56 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 16:35:56 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:35:57 [TestNG-test-OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:44:02 [TestNG-test=Regression Suite-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:44:02 [TestNG-test=Regression Suite-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:44:03 [TestNG-test=Regression Suite-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:44:14 [TestNG-test=Regression Suite-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:44:14 [TestNG-test=Regression Suite-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:44:15 [TestNG-test=Regression Suite-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:45:08 [TestNG-test=Regression Suite-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:45:08 [TestNG-test=Regression Suite-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:45:09 [TestNG-test=Regression Suite-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:59:11 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 16:59:13 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:59:13 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 16:59:17 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 16:59:17 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:59:17 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:17 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:18 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 16:59:18 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:19 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:21 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 16:59:36 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 16:59:38 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:59:38 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] TRACE BaseClass - This is Trace message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] TRACE BaseClass - This is Trace message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] DEBUG BaseClass - This is Debug message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] DEBUG BaseClass - This is Debug message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] WARN  BaseClass - This is Warn message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] WARN  BaseClass - This is Warn message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 16:59:42 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:42 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 16:59:42 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 16:59:42 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:43 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 16:59:43 [TestNG-test=OrangeHrmTest-2] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 16:59:43 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:44 [TestNG-test=OrangeHrmTest-3] INFO  ActionDriver - Element is clicked 
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:00:48 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 17:00:49 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:00:52 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:00:52 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 17:00:52 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:00:52 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:00:52 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:00:52 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:00:52 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 17:00:52 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 17:00:52 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:00:56 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:00:59 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:00:59 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 17:00:59 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:00:59 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:00:59 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:00:59 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:00:59 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 17:00:59 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 17:00:59 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:00:59 [TestNG-tests-1] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 17:01:00 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:01:03 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:01:03 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 17:01:03 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:01:03 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:01:03 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:01:03 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:01:03 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 17:01:03 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 17:01:03 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:01:04 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 17:01:04 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:01:05 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:09:00 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 17:09:02 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:09:04 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:09:04 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 17:09:04 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:09:04 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:09:04 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:09:04 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:09:04 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 17:09:05 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 17:09:05 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:09:08 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:09:11 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:09:11 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 17:09:11 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:09:11 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:09:11 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:09:11 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:09:11 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 17:09:11 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 17:09:12 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:09:12 [TestNG-tests-1] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 17:09:13 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:09:16 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:09:16 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread21
+2025-12-29 17:09:16 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:09:16 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:09:16 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:09:16 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:09:16 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 17:09:16 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 17:09:16 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:09:17 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 17:09:17 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:09:18 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:12:28 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 17:12:29 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:12:32 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:12:32 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 17:12:32 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:12:32 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:12:32 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:12:32 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:12:32 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 17:12:32 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 17:12:32 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:12:36 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:12:39 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:12:39 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 17:12:39 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:12:39 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:12:39 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:12:39 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:12:39 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 17:12:39 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 17:12:39 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:12:40 [TestNG-tests-1] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 17:12:41 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:12:44 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:12:44 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 17:12:44 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:12:44 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:12:44 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:12:44 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:12:44 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 17:12:44 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 17:12:44 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:12:45 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 17:12:45 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:12:46 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:13:14 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 17:13:15 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:13:18 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:13:18 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 17:13:18 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:13:18 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:13:18 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:13:18 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:13:18 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 17:13:19 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 17:13:19 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:13:23 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:13:25 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:13:25 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 17:13:25 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:13:25 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:13:25 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:13:25 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:13:26 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 17:13:26 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 17:13:26 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:13:26 [TestNG-tests-1] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 17:13:27 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 17:13:30 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 17:13:30 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-29 17:13:30 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 17:13:30 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 17:13:30 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 17:13:30 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 17:13:30 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 17:13:30 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 17:13:31 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:13:31 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 17:13:32 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 17:13:32 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 19:05:14 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:05:15 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:05:16 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:08:40 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:08:41 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:08:42 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:13:30 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:13:31 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:13:32 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:17:32 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:17:34 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 19:17:35 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:05:35 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 20:05:37 [main] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:05:40 [main] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 20:05:40 [main] INFO  BaseClass - ActionDriver Initlized for thread1
+2025-12-29 20:05:40 [main] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 20:05:40 [main] TRACE BaseClass - This is Trace message
+2025-12-29 20:05:40 [main] DEBUG BaseClass - This is Debug message
+2025-12-29 20:05:40 [main] WARN  BaseClass - This is Warn message
+2025-12-29 20:05:40 [main] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 20:05:40 [main] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 20:05:40 [main] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:05:41 [main] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 20:06:00 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 20:06:01 [main] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:06:04 [main] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 20:06:04 [main] INFO  BaseClass - ActionDriver Initlized for thread1
+2025-12-29 20:06:04 [main] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 20:06:04 [main] TRACE BaseClass - This is Trace message
+2025-12-29 20:06:04 [main] DEBUG BaseClass - This is Debug message
+2025-12-29 20:06:04 [main] WARN  BaseClass - This is Warn message
+2025-12-29 20:06:04 [main] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 20:06:04 [main] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 20:06:04 [main] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:06:05 [main] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 20:06:05 [main] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:06:06 [main] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:06:29 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:06:30 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:06:31 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:11:09 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 20:11:11 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:11:14 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 20:11:14 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 20:11:14 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 20:11:14 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 20:11:14 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 20:11:14 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 20:11:14 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 20:11:14 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 20:11:14 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:11:18 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:11:20 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 20:11:20 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 20:11:20 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 20:11:20 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 20:11:20 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 20:11:20 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 20:11:20 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 20:11:20 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 20:11:21 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:11:21 [TestNG-tests-1] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 20:11:22 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:11:25 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 20:11:25 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 20:11:25 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 20:11:25 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 20:11:25 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 20:11:25 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 20:11:25 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 20:11:25 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 20:11:25 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:11:26 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 20:11:26 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:11:27 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:12:34 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-29 20:12:36 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:12:39 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 20:12:39 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 20:12:39 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 20:12:39 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 20:12:39 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 20:12:39 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 20:12:39 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-29 20:12:39 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 20:12:39 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:12:43 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:12:45 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 20:12:45 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 20:12:45 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 20:12:45 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 20:12:45 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 20:12:45 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 20:12:46 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application adm
+2025-12-29 20:12:46 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application 123
+2025-12-29 20:12:46 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:12:46 [TestNG-tests-1] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-29 20:12:47 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:12:50 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-29 20:12:50 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-29 20:12:50 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-29 20:12:50 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-29 20:12:50 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-29 20:12:50 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-29 20:12:50 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-29 20:12:50 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-29 20:12:50 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:12:51 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
+2025-12-29 20:12:51 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:12:52 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-29 20:14:04 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:14:05 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-29 20:14:06 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 20:56:13 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 20:56:15 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 20:56:16 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:02:22 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-30 21:02:25 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:02:28 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-30 21:02:28 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-30 21:02:28 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-30 21:02:28 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-30 21:02:28 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-30 21:02:28 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-30 21:02:28 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-30 21:02:28 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-30 21:02:28 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:02:33 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:02:35 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-30 21:02:35 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-30 21:02:35 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-30 21:02:35 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-30 21:02:35 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-30 21:02:35 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-30 21:02:35 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application adm
+2025-12-30 21:02:36 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application 123
+2025-12-30 21:02:36 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:02:36 [TestNG-tests-1] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-30 21:02:37 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:02:40 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-30 21:02:40 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread22
+2025-12-30 21:02:40 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-30 21:02:40 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-30 21:02:40 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-30 21:02:40 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-30 21:02:40 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-30 21:02:40 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-30 21:02:40 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:02:41 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
+2025-12-30 21:02:42 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:02:43 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:04:21 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:04:24 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:04:26 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:06:17 [main] INFO  BaseClass - Config.properties file loaded 
+2025-12-30 21:06:19 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:06:22 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-30 21:06:22 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-30 21:06:22 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-30 21:06:22 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-30 21:06:22 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-30 21:06:22 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-30 21:06:22 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Adm
+2025-12-30 21:06:22 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-30 21:06:22 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:06:27 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:06:29 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-30 21:06:29 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-30 21:06:29 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-30 21:06:29 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-30 21:06:29 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-30 21:06:29 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-30 21:06:29 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application adm
+2025-12-30 21:06:29 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application 123
+2025-12-30 21:06:29 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:06:30 [TestNG-tests-1] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2025-12-30 21:06:31 [TestNG-tests-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2025-12-30 21:06:34 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance is created 
+2025-12-30 21:06:34 [TestNG-tests-1] INFO  BaseClass - ActionDriver Initlized for thread23
+2025-12-30 21:06:34 [TestNG-tests-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2025-12-30 21:06:34 [TestNG-tests-1] TRACE BaseClass - This is Trace message
+2025-12-30 21:06:34 [TestNG-tests-1] DEBUG BaseClass - This is Debug message
+2025-12-30 21:06:34 [TestNG-tests-1] WARN  BaseClass - This is Warn message
+2025-12-30 21:06:34 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application Admin
+2025-12-30 21:06:35 [TestNG-tests-1] INFO  ActionDriver - Text is displayed on application admin123
+2025-12-30 21:06:35 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:06:36 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
+2025-12-30 21:06:36 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2025-12-30 21:06:36 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 

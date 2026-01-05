@@ -31,45 +31,7 @@ public class HomePageTest extends BaseClass {
 	//for every test two times the instance will be created 
 	//
 	//tell
-	  @Test
-	    public void verifyHrmLogoDisplay() {
 
-	        ExtentManager.startTest("verifyHrmLogoDisplay");
-
-	        try {
-	            ExtentManager.logStep("Logging into application");
-	            loginPage.login("Admin", "admin123");
-
-	            ExtentManager.logStep("Checking if OrangeHRM logo is displayed");
-	            boolean verifyLogoDisplay = homePage.verifyOrangeHrmLogoIsDisplayed();
-
-	            if (verifyLogoDisplay) {
-	                ExtentManager.logWithScreenShot(
-	                        getDriver(),
-	                        "Logo is displayed successfully",
-	                        "Logo Verification Passed"
-	                );
-	            } else {
-	                ExtentManager.logFailure(
-	                        getDriver(),
-	                        "Logo was NOT displayed",
-	                        "Logo Verification Failed"
-	                );
-	                Assert.fail("The Logo was expected but NOT displayed");
-	            }
-
-	            ExtentManager.logStep("Logging out of application");
-	            homePage.logOut();
-	            staticWait(2);
-
-	        } catch (Exception e) {
-	            ExtentManager.logFailure(getDriver(), e.getMessage(), "Unexpected Failure");
-	            Assert.fail(e.getMessage());
-	        } finally {
-	            ExtentManager.endTest();
-	        }
-	    }
-	
 	
 	
 

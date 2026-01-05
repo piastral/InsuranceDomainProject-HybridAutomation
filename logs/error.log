@@ -122,3 +122,295 @@ Session ID: 8c154a1db0f337b70c8b9984a89d9028
 2025-12-26 20:15:50 [main] FATAL BaseClass - This is Fatal message
 2025-12-26 20:20:33 [main] ERROR BaseClass - This is error message
 2025-12-26 20:20:33 [main] FATAL BaseClass - This is Fatal message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-27 17:10:56 [TestNG-test=OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-27 17:11:04 [TestNG-test=OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - element is Not Visibleinvalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c3a23140db80f74cc97ec51b2d9e46c, findElement {using=xpath, value=//input[@name='username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58945}, goog:processID: 14208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58945/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c3a23140db80f74cc97ec51b2d9e46c
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - Unable to Send Value in Application using SendKeysinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c3a23140db80f74cc97ec51b2d9e46c, findElement {using=xpath, value=//input[@name='username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58945}, goog:processID: 14208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58945/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c3a23140db80f74cc97ec51b2d9e46c
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - element is Not Visibleinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c3a23140db80f74cc97ec51b2d9e46c, findElement {using=xpath, value=//input[@name='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58945}, goog:processID: 14208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58945/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c3a23140db80f74cc97ec51b2d9e46c
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - Unable to Send Value in Application using SendKeysinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c3a23140db80f74cc97ec51b2d9e46c, findElement {using=xpath, value=//input[@name='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58945}, goog:processID: 14208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58945/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c3a23140db80f74cc97ec51b2d9e46c
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - Element is i not clickableinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c3a23140db80f74cc97ec51b2d9e46c, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58945}, goog:processID: 14208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58945/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c3a23140db80f74cc97ec51b2d9e46c
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - Unable to click the Elementinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c3a23140db80f74cc97ec51b2d9e46c, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58945}, goog:processID: 14208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58945/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c3a23140db80f74cc97ec51b2d9e46c
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - element is Not Visibleinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c3a23140db80f74cc97ec51b2d9e46c, findElement {using=xpath, value=//div[contains(@role,"alert")]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58945}, goog:processID: 14208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58945/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c3a23140db80f74cc97ec51b2d9e46c
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:09 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - Unable To retieve the text invalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c3a23140db80f74cc97ec51b2d9e46c, findElement {using=xpath, value=//div[contains(@role,"alert")]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58945}, goog:processID: 14208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58945/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c3a23140db80f74cc97ec51b2d9e46c
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - element is Not Visibleinvalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f8b8cf1fc088399f24fe89a6a14f684, findElement {using=xpath, value=//input[@name='username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58996}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58996/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - Unable to Send Value in Application using SendKeysinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f8b8cf1fc088399f24fe89a6a14f684, findElement {using=xpath, value=//input[@name='username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58996}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58996/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - element is Not Visibleinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f8b8cf1fc088399f24fe89a6a14f684, findElement {using=xpath, value=//input[@name='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58996}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58996/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - Unable to Send Value in Application using SendKeysinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f8b8cf1fc088399f24fe89a6a14f684, findElement {using=xpath, value=//input[@name='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58996}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58996/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - Element is i not clickableinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f8b8cf1fc088399f24fe89a6a14f684, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58996}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58996/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - Unable to click the Elementinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f8b8cf1fc088399f24fe89a6a14f684, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58996}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58996/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - element is Not Visibleinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f8b8cf1fc088399f24fe89a6a14f684, findElement {using=xpath, value=//div[contains(@class,'oxd-sidepanel-body')]//ul//li//a//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58996}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58996/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - class org.openqa.selenium.NoSuchSessionException
+2025-12-27 17:13:15 [TestNG-test-OrangeHrmTest-3] ERROR ActionDriver - Element is Not Visibleinvalid session id
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f8b8cf1fc088399f24fe89a6a14f684, findElement {using=xpath, value=//div[contains(@class,'oxd-sidepanel-body')]//ul//li//a//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58996}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58996/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-27 17:13:39 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-27 17:13:45 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-27 17:13:45 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-27 17:34:32 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-27 17:34:38 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-27 17:43:00 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-27 17:43:05 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-28 12:55:27 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-28 12:55:28 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-28 12:55:31 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-28 14:59:54 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-28 14:59:58 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-28 15:20:39 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-28 15:20:40 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-28 15:20:40 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-28 15:20:43 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 15:13:32 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 15:13:36 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 15:43:15 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 15:43:19 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 15:44:18 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 15:44:21 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 15:44:21 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 15:47:31 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 15:47:35 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 15:48:43 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 15:48:47 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 15:52:07 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 15:52:11 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 15:57:43 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 15:57:47 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 16:30:35 [TestNG-test=OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 16:30:39 [TestNG-test=OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 16:35:54 [TestNG-test-OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 16:35:58 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 16:59:16 [TestNG-test=OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 16:59:20 [TestNG-test=OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] ERROR BaseClass - This is error message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] ERROR BaseClass - This is error message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-2] FATAL BaseClass - This is Fatal message
+2025-12-29 16:59:41 [TestNG-test=OrangeHrmTest-3] FATAL BaseClass - This is Fatal message
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] ERROR BaseClass - This is error message
+2025-12-29 16:59:46 [TestNG-test=OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:00:52 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:00:52 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:00:59 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:00:59 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:01:03 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:01:03 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:09:04 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:09:04 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:09:11 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:09:11 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:09:16 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:09:16 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:12:32 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:12:32 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:12:39 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:12:39 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:12:44 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:12:44 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:13:18 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:13:18 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:13:25 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:13:25 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 17:13:30 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 17:13:30 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 20:05:40 [main] ERROR BaseClass - This is error message
+2025-12-29 20:05:40 [main] FATAL BaseClass - This is Fatal message
+2025-12-29 20:06:04 [main] ERROR BaseClass - This is error message
+2025-12-29 20:06:04 [main] FATAL BaseClass - This is Fatal message
+2025-12-29 20:11:14 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 20:11:14 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 20:11:20 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 20:11:20 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 20:11:25 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 20:11:25 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 20:12:39 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 20:12:39 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 20:12:45 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 20:12:45 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-29 20:12:50 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-29 20:12:50 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-30 21:02:28 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-30 21:02:28 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-30 21:02:35 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-30 21:02:35 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-30 21:02:40 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-30 21:02:40 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-30 21:06:22 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-30 21:06:22 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-30 21:06:29 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-30 21:06:29 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2025-12-30 21:06:34 [TestNG-tests-1] ERROR BaseClass - This is error message
+2025-12-30 21:06:34 [TestNG-tests-1] FATAL BaseClass - This is Fatal message

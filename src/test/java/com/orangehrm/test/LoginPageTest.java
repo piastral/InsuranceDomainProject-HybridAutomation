@@ -2,6 +2,7 @@ package com.orangehrm.test;
 
 import static org.testng.Assert.assertTrue;
 
+
 import java.io.IOException;
 
 import org.openqa.selenium.WebDriver;
@@ -13,6 +14,9 @@ import com.orangehrm.base.BaseClass;
 import com.orangehrm.pages.HomePage;
 import com.orangehrm.pages.LoginPage;
 
+
+
+@Test(groups="regression")
 public class LoginPageTest extends BaseClass {
 
 	private LoginPage loginPage;
@@ -23,7 +27,7 @@ public class LoginPageTest extends BaseClass {
 		loginPage = new LoginPage();
 		}
 
-	//@Test
+	@Test
 	public void verifyInvalidLoginTest() {
 		loginPage.login("adm", "123");
 		String expectedErrorMessage = "Invalid credentials";

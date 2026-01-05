@@ -93,9 +93,18 @@ same like thread local ensures same thread uses same driver.”
 	   * 
 	   * 
 	   */
+	  
+
 	        public synchronized static ExtentReports getReporter() {
 	        	if(extentReports==null) {
-	        	String 	reportPath= System.getProperty("user.dir") + "\\src\\test\\resources\\ExtentReport\\ExtentReport.html";
+	        		  String projectPath = "C:\\Users\\mohammed\\eclipse-workspace\\OrangeHRMProjectInsurance";
+
+	        	        String reportDir = projectPath + "\\src\\test\\resources\\ExtentReports\\";
+	        	        
+
+	        	        String reportPath = reportDir + "AutomationReport.html";
+	        	
+	        	
 	        	//now i need to attach the spark reporter with my extent report but before that i need to say to my spark reported where the files will be stored 
 	        	ExtentSparkReporter sparkReporter= new ExtentSparkReporter(reportPath);
 	        	   sparkReporter.config().setReportName("Automation Test Report");
@@ -271,7 +280,7 @@ same like thread local ensures same thread uses same driver.”
 	        //Register webdriver for curretn thread 
 	        
 	        public static void registerDriver(WebDriver driver) {
-	        	driverMap.put(Thread.currentThread().getId(), driver);
+	        	driverMap.put(Thread.currentThread().getId(), driver); 
 	        }
 	
 	

@@ -5,9 +5,11 @@
     <!-- Global Listeners -->
     <listeners>
         <listener class-name="com.orangehrm.listeners.TestListener"/>
+                <listener class-name="com.orangehrm.transformers.AnnotationTransformers"/>
     </listeners>
 
     <test name="Regression Suite">
+		<parameter name="browser" value="chrome"></parameter>
 
         <!-- Run only regression classes -->
         <groups>

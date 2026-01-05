@@ -19,6 +19,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
 
 import com.orangehrm.actiondriver.ActionDriver;
 import com.orangehrm.utilities.ExtentManager;
@@ -135,10 +137,12 @@ public class BaseClass {
 //==============================================END LOAD CONFIG========================================================================================	
 
 //==================================BEFORE METHOD SETUP ==========================================
-	@BeforeMethod
-	public synchronized void setUp() throws IOException, IllegalAccessException, InterruptedException {
+	@Parameters("browser")
+	@BeforeMethod(alwaysRun = true)
+	
+	public synchronized void setUp(@Optional("chrome") String browser)throws IOException, IllegalAccessException, InterruptedException {
 		System.out.println("Setting up WebDriver for:" + this.getClass().getSimpleName());
-		launchBrowser();
+		launchBrowser(browser);
 		configureBrowserUsingImplcitWait();
 		staticWait(2);
 		
@@ -180,12 +184,13 @@ public class BaseClass {
 //==================================LAUNCH RBOWSER ======================================================================          
 // why beforemethod because i want to run my setup before every test case
 
-	private synchronized  void launchBrowser() throws IllegalAccessException {
+	private synchronized  void launchBrowser(String browser) throws IllegalAccessException {
+		
 
-// to debug press twice to break point in line 62 also for Properties we need to use static 
-		String browserOptions = prop.getProperty("browserOptions");
 
-		if (browserOptions.equalsIgnoreCase("chrome")) {
+		
+
+		if (browser.equalsIgnoreCase("chrome")) {
 
 			chromeOption = new ChromeOptions();
 			chromeOption.addArguments("--start-maximized","--incognito");
@@ -197,7 +202,7 @@ public class BaseClass {
 			
 			
 
-		} else if (browserOptions.equalsIgnoreCase("firefox")) {
+		} else if (browser.equalsIgnoreCase("firefox")) {
               firefoxOption = new FirefoxOptions();
               firefoxOption.addArguments("--start-maximized ","--incognito");
               
@@ -208,7 +213,7 @@ public class BaseClass {
 			
 		}
 
-		else if (browserOptions.equalsIgnoreCase("edge")) {
+		else if (browser.equalsIgnoreCase("edge")) {
 			edgeOption = new EdgeOptions();
 			  edgeOption.addArguments("--start-maximized ","--incognito");
             
@@ -224,7 +229,7 @@ public class BaseClass {
 		}
 		
 		getDriver().get(prop.getProperty("url"));
-
+		System.out.println("BROWSER NAME =" +browser);
 	}
 
 	public void configureBrowserUsingImplcitWait() {
@@ -258,7 +263,7 @@ public class BaseClass {
 //===================================================End OF EXPLICT AIT METHOD============================================================	
 
 //================================================================= TEARDOWN =================================================	
-	@AfterMethod
+	@AfterMethod(alwaysRun = true)
 	public synchronized  void tearDown() {
 		if (getDriver() != null) {
 			try {
