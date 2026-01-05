@@ -81,7 +81,7 @@
 
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>src/test/resources/TestNg/testng.xml</suiteXmlFile>
+                    <suiteXmlFile>src/test/resources/TestNg/Master.xml</suiteXmlFile>
                 </suiteXmlFiles>
             </configuration>
         </plugin>
