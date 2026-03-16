@@ -33,7 +33,7 @@
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>7.11.0</version>
-			
+
 		</dependency>
 
 
@@ -72,28 +72,41 @@
 	</dependencies>
 
 	<build>
-    <plugins>
-        <!-- REAL ACTIVE PLUGINS GO HERE -->
-        <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-surefire-plugin</artifactId>
-            <version>3.5.4</version>
+		<plugins>
 
-            <configuration>
-                <suiteXmlFiles>
-                    <suiteXmlFile>src/test/resources/TestNg/testng.xml</suiteXmlFile>
-                </suiteXmlFiles>
-            </configuration>
-        </plugin>
 
-    </plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.15.0</version>
+				<configuration>
+					<release>11</release>
+					
+				</configuration>
+			</plugin>
 
-    <!-- optional: keep pluginManagement for version control -->
-    <pluginManagement>
-        <plugins>
-            <!-- other plugins you want to BIND version only -->
-        </plugins>
-    </pluginManagement>
-</build>
+
+			<!-- REAL ACTIVE PLUGINS GO HERE -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>3.5.4</version>
+
+				<configuration>
+					<suiteXmlFiles>
+						<suiteXmlFile>src/test/resources/TestNg/testng.xml</suiteXmlFile>
+					</suiteXmlFiles>
+				</configuration>
+			</plugin>
+
+		</plugins>
+
+		<!-- optional: keep pluginManagement for version control -->
+		<pluginManagement>
+			<plugins>
+				<!-- other plugins you want to BIND version only -->
+			</plugins>
+		</pluginManagement>
+	</build>
 
 </project>
