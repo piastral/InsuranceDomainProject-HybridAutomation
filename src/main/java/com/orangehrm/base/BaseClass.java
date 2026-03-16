@@ -194,6 +194,9 @@ public class BaseClass {
 
 			chromeOption = new ChromeOptions();
 			chromeOption.addArguments("--start-maximized","--incognito");
+			chromeOption.addArguments("--headless");
+			chromeOption.addArguments("--disable-gpu");
+			
 			
 			//Create webdriver instance and put into threadlocal
 			driver.set(new ChromeDriver(chromeOption));
@@ -205,6 +208,9 @@ public class BaseClass {
 		} else if (browser.equalsIgnoreCase("firefox")) {
               firefoxOption = new FirefoxOptions();
               firefoxOption.addArguments("--start-maximized ","--incognito");
+              firefoxOption.addArguments("--headless");
+  			firefoxOption.addArguments("--disable-gpu");
+  			
               
               driver.set(new FirefoxDriver(firefoxOption));
               ExtentManager.registerDriver(getDriver());
@@ -216,6 +222,9 @@ public class BaseClass {
 		else if (browser.equalsIgnoreCase("edge")) {
 			edgeOption = new EdgeOptions();
 			  edgeOption.addArguments("--start-maximized ","--incognito");
+			  edgeOption.addArguments("--headless");
+				edgeOption.addArguments("--disable-gpu");
+				
             
             driver.set(new EdgeDriver(edgeOption));
             ExtentManager.registerDriver(getDriver());

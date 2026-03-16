@@ -414,3 +414,39 @@ Session ID: 6f8b8cf1fc088399f24fe89a6a14f684
 2025-12-30 21:06:29 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
 2025-12-30 21:06:34 [TestNG-tests-1] ERROR BaseClass - This is error message
 2025-12-30 21:06:34 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-03-16 16:25:13 [TestNG-test-OrangeHrmTest-1] ERROR BaseClass - This is error message
+2026-03-16 16:25:13 [TestNG-test-OrangeHrmTest-1] FATAL BaseClass - This is Fatal message
+2026-03-16 16:25:29 [TestNG-test-OrangeHrmTest-1] ERROR ActionDriver - element is Not VisibleExpected condition failed: waiting for visibility of element located by By.xpath: //div[contains(@class,'oxd-sidepanel-body')]//ul//li//a//span[text()='Admin'] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56169}, goog:processID: 17048, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56169/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 393e35946520ea87ef2c7f5c4735a21f
+2026-03-16 16:27:08 [main] ERROR BaseClass - This is error message
+2026-03-16 16:27:08 [main] FATAL BaseClass - This is Fatal message
+2026-03-16 16:27:24 [main] ERROR ActionDriver - element is Not VisibleExpected condition failed: waiting for visibility of element located by By.xpath: //div[contains(@class,'oxd-sidepanel-body')]//ul//li//a//span[text()='Admin'] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56224}, goog:processID: 12684, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56224/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8666cb42cee7588fc773106f19607d25
+2026-03-16 16:28:29 [main] ERROR BaseClass - This is error message
+2026-03-16 16:28:29 [main] FATAL BaseClass - This is Fatal message
+2026-03-16 16:28:44 [main] ERROR ActionDriver - element is Not VisibleExpected condition failed: waiting for visibility of element located by By.xpath: //div[contains(@class,'oxd-sidepanel-body')]//ul//li//a//span[text()='Admin'] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56278}, goog:processID: 13068, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56278/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a8fa73ef246e157e4ab583a0554f9120
+2026-03-16 16:29:33 [main] ERROR BaseClass - This is error message
+2026-03-16 16:29:33 [main] FATAL BaseClass - This is Fatal message
+2026-03-16 16:29:43 [main] ERROR BaseClass - This is error message
+2026-03-16 16:29:43 [main] FATAL BaseClass - This is Fatal message
+2026-03-16 16:33:41 [main] ERROR BaseClass - This is error message
+2026-03-16 16:33:41 [main] FATAL BaseClass - This is Fatal message
+2026-03-16 16:33:56 [main] ERROR ActionDriver - element is Not VisibleExpected condition failed: waiting for visibility of element located by By.xpath: //div[contains(@class,'oxd-sidepanel-body')]//ul//li//a//span[text()='Admin'] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.29'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\mohammed\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56407}, goog:processID: 11600, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56407/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8683c16ca74458522e642c27c5c5de2

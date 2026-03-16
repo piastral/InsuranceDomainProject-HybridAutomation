@@ -1416,3 +1416,71 @@
 2025-12-30 21:06:36 [TestNG-tests-1] INFO  ActionDriver - Elements are Displayed  
 2025-12-30 21:06:36 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
 2025-12-30 21:06:36 [TestNG-tests-1] INFO  ActionDriver - Element is clicked 
+2026-03-16 16:25:04 [main] INFO  BaseClass - Config.properties file loaded 
+2026-03-16 16:25:07 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2026-03-16 16:25:13 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Webdriver instance is created 
+2026-03-16 16:25:13 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - ActionDriver Initlized for thread20
+2026-03-16 16:25:13 [TestNG-test-OrangeHrmTest-1] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2026-03-16 16:25:13 [TestNG-test-OrangeHrmTest-1] TRACE BaseClass - This is Trace message
+2026-03-16 16:25:13 [TestNG-test-OrangeHrmTest-1] DEBUG BaseClass - This is Debug message
+2026-03-16 16:25:13 [TestNG-test-OrangeHrmTest-1] WARN  BaseClass - This is Warn message
+2026-03-16 16:25:14 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application Admin
+2026-03-16 16:25:14 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Text is displayed on application admin123
+2026-03-16 16:25:14 [TestNG-test-OrangeHrmTest-1] INFO  ActionDriver - Element is clicked 
+2026-03-16 16:26:59 [main] INFO  BaseClass - Config.properties file loaded 
+2026-03-16 16:27:02 [main] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2026-03-16 16:27:08 [main] INFO  ActionDriver - Webdriver instance is created 
+2026-03-16 16:27:08 [main] INFO  BaseClass - ActionDriver Initlized for thread1
+2026-03-16 16:27:08 [main] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2026-03-16 16:27:08 [main] TRACE BaseClass - This is Trace message
+2026-03-16 16:27:08 [main] DEBUG BaseClass - This is Debug message
+2026-03-16 16:27:08 [main] WARN  BaseClass - This is Warn message
+2026-03-16 16:27:08 [main] INFO  ActionDriver - Text is displayed on application Admin
+2026-03-16 16:27:08 [main] INFO  ActionDriver - Text is displayed on application admin123
+2026-03-16 16:27:09 [main] INFO  ActionDriver - Element is clicked 
+2026-03-16 16:28:23 [main] INFO  BaseClass - Config.properties file loaded 
+2026-03-16 16:28:25 [main] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2026-03-16 16:28:29 [main] INFO  ActionDriver - Webdriver instance is created 
+2026-03-16 16:28:29 [main] INFO  BaseClass - ActionDriver Initlized for thread1
+2026-03-16 16:28:29 [main] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2026-03-16 16:28:29 [main] TRACE BaseClass - This is Trace message
+2026-03-16 16:28:29 [main] DEBUG BaseClass - This is Debug message
+2026-03-16 16:28:29 [main] WARN  BaseClass - This is Warn message
+2026-03-16 16:28:29 [main] INFO  ActionDriver - Text is displayed on application Admin
+2026-03-16 16:28:29 [main] INFO  ActionDriver - Text is displayed on application admin123
+2026-03-16 16:28:29 [main] INFO  ActionDriver - Element is clicked 
+2026-03-16 16:29:27 [main] INFO  BaseClass - Config.properties file loaded 
+2026-03-16 16:29:29 [main] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2026-03-16 16:29:33 [main] INFO  ActionDriver - Webdriver instance is created 
+2026-03-16 16:29:33 [main] INFO  BaseClass - ActionDriver Initlized for thread1
+2026-03-16 16:29:33 [main] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2026-03-16 16:29:33 [main] TRACE BaseClass - This is Trace message
+2026-03-16 16:29:33 [main] DEBUG BaseClass - This is Debug message
+2026-03-16 16:29:33 [main] WARN  BaseClass - This is Warn message
+2026-03-16 16:29:33 [main] INFO  ActionDriver - Text is displayed on application Adm
+2026-03-16 16:29:33 [main] INFO  ActionDriver - Text is displayed on application admin123
+2026-03-16 16:29:33 [main] INFO  ActionDriver - Element is clicked 
+2026-03-16 16:29:40 [main] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2026-03-16 16:29:43 [main] INFO  ActionDriver - Webdriver instance is created 
+2026-03-16 16:29:43 [main] INFO  BaseClass - ActionDriver Initlized for thread1
+2026-03-16 16:29:43 [main] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2026-03-16 16:29:43 [main] TRACE BaseClass - This is Trace message
+2026-03-16 16:29:43 [main] DEBUG BaseClass - This is Debug message
+2026-03-16 16:29:43 [main] WARN  BaseClass - This is Warn message
+2026-03-16 16:29:43 [main] INFO  ActionDriver - Text is displayed on application adm
+2026-03-16 16:29:43 [main] INFO  ActionDriver - Text is displayed on application 123
+2026-03-16 16:29:43 [main] INFO  ActionDriver - Element is clicked 
+2026-03-16 16:29:44 [main] INFO  ActionDriver - Text are Matching:Invalid credentialsequals Invalid credentials
+2026-03-16 16:33:35 [main] INFO  BaseClass - Config.properties file loaded 
+2026-03-16 16:33:38 [main] INFO  BaseClass - ChromeDriver & ChromeOption Instance is created
+2026-03-16 16:33:41 [main] INFO  ActionDriver - Webdriver instance is created 
+2026-03-16 16:33:41 [main] INFO  BaseClass - ActionDriver Initlized for thread1
+2026-03-16 16:33:41 [main] INFO  BaseClass - WebDriver Intialized and Browser Maximized
+2026-03-16 16:33:41 [main] TRACE BaseClass - This is Trace message
+2026-03-16 16:33:41 [main] DEBUG BaseClass - This is Debug message
+2026-03-16 16:33:41 [main] WARN  BaseClass - This is Warn message
+2026-03-16 16:33:41 [main] INFO  ActionDriver - Text is displayed on application Admin
+2026-03-16 16:33:41 [main] INFO  ActionDriver - Text is displayed on application admin123
+2026-03-16 16:33:41 [main] INFO  ActionDriver - Element is clicked 
+2026-03-16 16:33:56 [main] INFO  ActionDriver - Element is clicked 
+2026-03-16 16:33:58 [main] INFO  ActionDriver - Element is clicked 

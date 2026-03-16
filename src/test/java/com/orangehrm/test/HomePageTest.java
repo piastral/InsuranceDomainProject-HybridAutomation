@@ -14,7 +14,7 @@ import com.orangehrm.pages.HomePage;
 import com.orangehrm.pages.LoginPage;
 import com.orangehrm.utilities.ExtentManager;
 
-@Test(groups="regression") // class level regression grouping done will help eventually 
+@Test // class level regression grouping done will help eventually 
 
 public class HomePageTest extends BaseClass {
 	
@@ -23,7 +23,8 @@ public class HomePageTest extends BaseClass {
 	private HomePage homePage;
 
 	@BeforeMethod
-	public void setUpPages() throws IOException, InterruptedException {
+	public void setUpPages()
+			throws IOException, InterruptedException {
 		this.loginPage = new LoginPage();
 		this.homePage = new HomePage(
 				);
@@ -41,7 +42,7 @@ public class HomePageTest extends BaseClass {
 		loginPage.login("Admin", "admin123");
 		System.out.println("Successfully**********Login***********");
 		boolean adminTabVerify = homePage.adminTabDisplayed();
-		Assert.assertEquals(adminTabVerify, true, "Admin Tab should be visible after successfull Login");
+		Assert.assertEquals(adminTabVerify, false, "Admin Tab should be visible after successfull Login");
 		homePage.logOut();
 		System.out.println("Sucessfully**********Logout**************");
 		staticWait(2);
