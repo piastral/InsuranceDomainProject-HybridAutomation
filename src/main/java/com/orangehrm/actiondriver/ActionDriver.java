@@ -16,19 +16,20 @@ import com.orangehrm.base.BaseClass;
 import com.orangehrm.utilities.ExtentManager;
 
 public class ActionDriver {
-	// now instead of creating object all the time better to call it inside base class 
-	// and thus we will have singlton design pattern 
+	// now instead of creating object all the time better to call it inside base
+	// class
+	// and thus we will have singlton design pattern
 //yhud
 	private WebDriver driver;
-	private WebDriverWait wait; //GLOBAL CANN BE APPLIED ANYWHERE WITHIN CLASS 
-	
-	public static final Logger logger =BaseClass.logger;
+	private WebDriverWait wait; // GLOBAL CANN BE APPLIED ANYWHERE WITHIN CLASS
 
-	public ActionDriver(WebDriver driver ) throws InterruptedException {
+	public static final Logger logger = BaseClass.logger;
+
+	public ActionDriver(WebDriver driver) throws InterruptedException {
 		int explicitWait = Integer.parseInt(BaseClass.getProp().getProperty("explicitWait"));
-		
-		this.wait = new WebDriverWait(driver, Duration.ofSeconds(explicitWait)); // i am storing in wait variable 
-		// and job of construtor is to initilize instance variable 
+
+		this.wait = new WebDriverWait(driver, Duration.ofSeconds(explicitWait)); // i am storing in wait variable
+		// and job of construtor is to initilize instance variable
 		this.driver = driver;
 		logger.info("Webdriver instance is created ");
 
@@ -39,12 +40,12 @@ public class ActionDriver {
 		try {
 			waitForElementToBeClickable(by);
 			driver.findElement(by).click();
-		
+
 			logger.info("Element is clicked ");
 		} catch (Exception e) {
 			logger.error(e.getClass().toString());
-			
-		logger.error("Unable to click the Element" +  e.getMessage());
+
+			logger.error("Unable to click the Element" + e.getMessage());
 		}
 	}
 
@@ -53,12 +54,12 @@ public class ActionDriver {
 	public void enterText(By by, String value) {
 		try {
 			waitForElementVisbility(by);
-			 driver.findElement(by).clear();
-			 driver.findElement(by).sendKeys(value);
-			 logger.info("Text is displayed on application " + value);
+			driver.findElement(by).clear();
+			driver.findElement(by).sendKeys(value);
+			logger.info("Text is displayed on application " + value);
 		} catch (Exception e) {
 			logger.error(e.getClass().toString());
-			logger.error("Unable to Send Value in Application using SendKeys"  + e.getMessage());
+			logger.error("Unable to Send Value in Application using SendKeys" + e.getMessage());
 		}
 	}
 
@@ -69,9 +70,9 @@ public class ActionDriver {
 
 		try {
 			waitForElementVisbility(by);
-			
+
 			return driver.findElement(by).getText();
-			
+
 		} catch (Exception e) {
 			logger.error(e.getClass().toString());
 			logger.error("Unable To retieve the text " + e.getMessage());
@@ -80,29 +81,29 @@ public class ActionDriver {
 	}
 
 // Method to comaper Two Text
-	public boolean compareText(By by, String expectedText) { //Invalid Credintails
-		String actualText =null;
+	public boolean compareText(By by, String expectedText) { // Invalid Credintails
+		String actualText = null;
 		try {
 			waitForElementVisbility(by);
-			 actualText = driver.findElement(by).getText(); // xpath
+			actualText = driver.findElement(by).getText(); // xpath
 
 			if (expectedText.equals(actualText)) {
-				
+
 				logger.info("Text are Matching:" + actualText + "equals " + expectedText);
 				return true;
-				
+
 			} else {
-				
+
 				logger.error("Mismatch between:" + actualText + "and" + expectedText);
 				return false;
 			}
 		} catch (Exception e) {
 			logger.error(e.getClass().toString());
 			System.out.println("Text MisMatch:" + e.getMessage());
-			
+
 		}
 		return false;
-		
+
 	}
 
 	// Method to check if an element is displayed
@@ -113,7 +114,7 @@ public class ActionDriver {
 			Boolean displayActualELement = driver.findElement(by).isDisplayed();
 			if ((displayActualELement)) {
 				// same method will return true if element is Displayed
-				
+
 				logger.info("Elements are Displayed  ");
 				return displayActualELement;
 
@@ -170,7 +171,7 @@ public class ActionDriver {
 			}
 		} catch (Exception e) {
 			logger.error(e.getClass().toString());
-		logger.error("Element is Not Enabled" + e.getMessage());
+			logger.error("Element is Not Enabled" + e.getMessage());
 			return false;
 		}
 
@@ -184,24 +185,25 @@ public class ActionDriver {
 			js.executeScript("arguments[0] ,scrollIntoView(true);", jsElement);
 			driver.findElement(by);
 		} catch (Exception e) {
-		
+
 			logger.error("Unable to Scroll Into Desired Element: " + e.getMessage());
 		}
 	}
-	//==============================================EXPLICIT WAIT STARTS ====================================================
+
+	// ==============================================EXPLICIT WAIT STARTS
+	// ====================================================
 // handle stale element refrence exception 
 	private void handleStaleElementRefrenceException(By by) {
-		 try {
+		try {
 			wait.until(ExpectedConditions.refreshed(ExpectedConditions.visibilityOfElementLocated(by)));
 		} catch (Exception e) {
 			logger.error(e.getClass().toString());
 			logger.error("Stale element refrence " + e.getMessage());
 		}
 	}
-	
+
 //===================================================================================
-	
-	
+
 // wait for element to be clickable using explicit wait 
 	private void waitForElementToBeClickable(By by) {
 		try {
@@ -219,7 +221,7 @@ public class ActionDriver {
 
 			wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(by));
 		} catch (Exception e) {
-		
+
 			logger.error("Unable to switch The frame" + e.getMessage());
 		}
 	}
@@ -231,7 +233,7 @@ public class ActionDriver {
 			wait.until(ExpectedConditions.visibilityOfElementLocated(by));
 
 		} catch (Exception e) {
-			
+
 			logger.error("element is Not Visible" + e.getMessage());
 		}
 
@@ -243,7 +245,7 @@ public class ActionDriver {
 
 			wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(by));
 		} catch (Exception e) {
-		
+
 			logger.error("Elements are not visible " + e.getMessage());
 		}
 	}
@@ -256,14 +258,17 @@ public class ActionDriver {
 			// if alert is present then my driver switches to alert no need to explcitly use
 			// driver.switchto.alert
 			alert = wait.until(ExpectedConditions.alertIsPresent());
-			
 
 		} catch (Exception e) {
-			logger.error("Alert is not present"+ e.getMessage());
+			logger.error("Alert is not present" + e.getMessage());
 		}
 		return alert;
 	}
+
 	
+	
+		
+
 	
 
 }
