@@ -97,12 +97,10 @@ same like thread local ensures same thread uses same driver.”
 
 	        public synchronized static ExtentReports getReporter() {
 	        	if(extentReports==null) {
-	        		  String projectPath = "C:\\Users\\mohammed\\eclipse-workspace\\OrangeHRMProjectInsurance";
-
-	        	        String reportDir = projectPath + "\\src\\test\\resources\\ExtentReports\\";
+	        		 
 	        	        
 
-	        	        String reportPath = reportDir + "AutomationReport.html";
+	        	        String reportPath = System.getProperty("user.dir") + "/target/ExtentReports/AutomationReports.html";
 	        	
 	        	
 	        	//now i need to attach the spark reporter with my extent report but before that i need to say to my spark reported where the files will be stored 

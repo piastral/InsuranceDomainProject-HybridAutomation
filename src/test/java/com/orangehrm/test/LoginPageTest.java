@@ -8,6 +8,7 @@ import java.io.IOException;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.orangehrm.base.BaseClass;
@@ -15,7 +16,7 @@ import com.orangehrm.pages.HomePage;
 import com.orangehrm.pages.LoginPage;
 
 
-
+@Listeners(com.orangehrm.listeners.TestListener.class)
 @Test(groups="regression")
 public class LoginPageTest extends BaseClass {
 

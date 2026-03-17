@@ -15,10 +15,7 @@
     <classes>
       
      <class name="com.orangehrm.test.LoginPageTest"></class>
-      <class name="com.orangehrm.test.LoginPageTest"></class>
-       <class name="com.orangehrm.test.LoginPageTest"></class>
-        <class name="com.orangehrm.test.LoginPageTest"></class>
-         <class name="com.orangehrm.test.LoginPageTest"></class>
+      
           
     </classes>
   </test>
